@@ -74,7 +74,7 @@ class quota extends rcube_plugin
             $quotaUsedPercents = 0;
             $quotaFreePercents = 100;
         } else {
-            $quota_text = sprintf('%f %% ( ', $quota['percent']);
+            $quota_text = sprintf('%.2f %% ( ', $quota['percent']);
             if (intval($quota['used']) < 1024) {
                 $quota_text .= (round(floatval($quota['used']), 2)) . " KB of ";
             } else {
