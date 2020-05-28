@@ -1,4 +1,4 @@
-# Quota Chart Roundcube Plugin #
+# Quota Chart for Roundcube Plugin #
 
 **Installation**
 
