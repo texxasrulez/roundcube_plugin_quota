@@ -2,20 +2,14 @@
     "name": "texxasrulez/quota",
     "type": "roundcube-plugin",
     "description": "Display Mail Quota in chart for Roundcube.",
-    "homepage": "https://github.com/texxasrulez/roundcube-plugin-quota",
+    "homepage": "https://github.com/texxasrulez/roundcube_plugin_quota",
     "license": "GPL-3.0-only",
-    "version": "0.2",
+    "version": "0.3",
     "authors": [
         {
             "name": "Gene Hawkins",
             "email": "texxasrulez@yahoo.com",
             "role": "Lead"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://plugins.roundcube.net"
         }
     ],
     "require": {
