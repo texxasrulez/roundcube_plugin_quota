@@ -3,7 +3,7 @@
     "type": "roundcube-plugin",
     "description": "Display Mail Quota in chart for Roundcube.",
     "homepage": "https://github.com/texxasrulez/roundcube_plugin_quota",
-    "license": "GPL-3.0-only",
+    "license": "GPL-3.0",
     "version": "0.3",
     "authors": [
         {
