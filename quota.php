@@ -164,8 +164,8 @@ class quota extends rcube_plugin
     protected function loadPluginConfigs()
     {
         $config_files = array(
-            __DIR__ . '/config.php',
-            __DIR__ . '/config.example.php', // fallback
+            __DIR__ . '/config.inc.php',
+            __DIR__ . '/config.inc.php.dist', // fallback
         );
 
         $config = array();
